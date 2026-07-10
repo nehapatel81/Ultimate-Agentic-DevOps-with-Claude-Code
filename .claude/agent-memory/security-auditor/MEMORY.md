@@ -1,0 +1,2 @@
+- [Portfolio infra security posture](project_portfolio_infra.md) — baseline is solid (OAC/public-block/HTTPS); recurring gaps: SSE, headers policy, logging, remote state, unmanaged OIDC role
+- [Audit scope note](feedback_audit_scope.md) — also check .github/workflows/*.yml for hardcoded ARNs/account IDs when auditing terraform/

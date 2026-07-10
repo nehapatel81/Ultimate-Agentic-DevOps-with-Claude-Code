@@ -1,0 +1,3 @@
+- [S3 versioning enabled without lifecycle rules (high cost)](s3_versioning_critical.md) — Portfolio site storing unlimited object versions
+- [CloudFront using PriceClass_200 (sub-optimal)](cloudfront-price-class-optimization.md) — Could use cheaper PriceClass_100 for typical audience
+- [S3 lifecycle policy missing](s3-lifecycle-policy-recommendation.md) — Need rules to prevent unbounded version storage growth
